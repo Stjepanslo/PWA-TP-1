@@ -1,4 +1,4 @@
-const API_KEY =" ";
+const API_KEY ="73000692cc8567276e4eee5de5d29f3b";
 const URL ="https://api.openweathermap.org/data/2.5/";
 
 const button = document.getElementById('sendButton');
